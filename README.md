@@ -1,0 +1,2 @@
+# thenis
+Minimal Promise implementation
